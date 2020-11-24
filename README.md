@@ -9,3 +9,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Section 3
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc lobortis mattis aliquam faucibus purus. Iaculis eu non diam phasellus vestibulum lorem sed risus ultricies. Sit amet mauris commodo quis. Imperdiet sed euismod nisi porta lorem mollis. Vitae suscipit tellus mauris a diam maecenas sed enim ut. Quam viverra orci sagittis eu. Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet. Facilisis volutpat est velit egestas dui id.
 
+## Section 4
+A difference that occurs between merged branches. Merge conflicts happen when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file. The merge conflict must be resolved before you can merge the branches.
+Here is a little bit more
